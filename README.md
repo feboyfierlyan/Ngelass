@@ -1,5 +1,7 @@
 # Ngelass
 
+![Logo Ngelass](images/logo.png)
+
 **Ngelass** adalah aplikasi sederhana yang membantu mahasiswa memesan dan mengelola jadwal kelas di kampus. Aplikasi ini masih dalam tahap pengembangan client-side sebagai bagian dari tugas praktikum kuliah. Dengan antarmuka berbasis teks, pengguna dapat melakukan registrasi akun, login, melihat status kelas, melakukan booking, serta membatalkan reservasi dengan mudah.
 
 ## Fitur Utama
