@@ -11,6 +11,12 @@
 - **Booking Kelas**: Pesan kelas dengan mudah sesuai kebutuhanmu.
 - **Batal Booking Kelas**: Fleksibel batalkan reservasi kelas kapan saja.
 
+## Fitur
+![Register Akun](images/registerakun.png)
+![Lihat Status Kelas](images/lihatstatuskelas.png)
+![Booking Kelas](images/bookingkelas.png)
+![Batal Booking Kelas](images/batalbookingkelas.png)
+
 ## Teknologi yang Digunakan
 - **Bahasa Pemrograman**: C
 - **Database**: Berbasis file (menggunakan file teks atau binary untuk menyimpan data)
