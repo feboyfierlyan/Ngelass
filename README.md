@@ -27,7 +27,7 @@
 ## Instalasi
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/Ngelass.git
+   git clone https://github.com/feboyfierlyan/Ngelass.git
 
 ## Slide
 [Figma Slide](https://www.figma.com/deck/qKmKazM5CO3ivW1x2VO3Uw/Ngelass?node-id=1-270)
